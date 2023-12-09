@@ -19,3 +19,6 @@
   -	Cài dịch vụ Apache
   - Cài dịch vụ MySQL
   - Cài dịch vụ PHP 
+- Hoàn thành công việc của tuần 3:
+  - Tìm hiểu các mã nguồn mở: Joomla, Drupal, Mangento, ... 
+  - Chọn CMS(Joomla) để triển khai
