@@ -20,5 +20,9 @@
   - Cài dịch vụ MySQL
   - Cài dịch vụ PHP 
 - Hoàn thành công việc của tuần 3:
-  - Tìm hiểu các mã nguồn mở: Joomla, Drupal, Mangento, ... 
-  - Chọn CMS(Joomla) để triển khai
+  - Tìm hiểu CMS là gì, có những CMS phổ biến nào, chức năng của CMS là gì
+  - Tìm hiểu CMS Joomla
+  - Tìm hiểu CMS Drupal
+  - Tìm hiểu CMS Mangento
+  - Tìm hiểu CMS Wordpress
+  - Chọn CMS Joomla để triển khai
