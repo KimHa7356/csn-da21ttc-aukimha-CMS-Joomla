@@ -27,7 +27,8 @@
   - Tìm hiểu CMS Wordpress
   - Chọn CMS Joomla để triển khai
 - Hoàn thành công việc tuần 4:
-  -Thiết kế giao diện trang KHOA KĨ THUẬT CÔNG NGHỆ ĐẠI HỌC TRÀ VINH
-	   * Trang chủ
-	   * Trang giới thiệu
+  - Thiết kế giao diện trang KHOA KĨ THUẬT CÔNG NGHỆ ĐẠI HỌC TRÀ VINH
+  - Trang chủ
+  - Trang giới thiệu  
+
 
