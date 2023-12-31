@@ -30,5 +30,11 @@
   - Thiết kế giao diện trang KHOA KĨ THUẬT CÔNG NGHỆ ĐẠI HỌC TRÀ VINH
   - Trang chủ
   - Trang giới thiệu  
+  - Trang đơn vị  
+    - Văn phòng khoa
+    - Công nghệ thông tin
+    - Cơ khí - Động lực
+    - Điện - Điện tử
+    - Xây dựng 
 
 
